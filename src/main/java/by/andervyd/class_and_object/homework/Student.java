@@ -12,7 +12,6 @@ public class Student {
 
 class StudentTest {
     public static void main(String[] args) {
-        double tempAverage;
 
         Student stBob = new Student();
         Student stPoll = new Student();
