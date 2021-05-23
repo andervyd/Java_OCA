@@ -12,7 +12,7 @@ public class SuperConstructor {
 class Child extends SuperConstructor {
 
     Child() {
-        super(); // default constructor SuperConstructor()
+        super(); // default constructor SuperConstructor
     }
 
     public static void main(String[] args) {
