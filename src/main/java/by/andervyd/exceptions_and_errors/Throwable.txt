@@ -1,0 +1,8 @@
+
+Object <= Throwable <= Exception <= IOException
+                                 <= RuntimeException <= NullPointerException
+                                                     <= "..."
+                                 <= "..."
+                                 <= "..."
+                    <= Error <= "..."
+                             <= "..."
